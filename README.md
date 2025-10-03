@@ -1,3 +1,3 @@
 Homeworks completed during Machine Learning class @ IST
 
-Final grade: 17,76
+Final project grade: 17,76
